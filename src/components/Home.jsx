@@ -14,7 +14,7 @@ const Home = () => {
         <WalletDoughnutChart />
         <TweetComponent />
       </div>
-      {/* <Coins /> */}
+      <Coins />
     </div>
   );
 };
