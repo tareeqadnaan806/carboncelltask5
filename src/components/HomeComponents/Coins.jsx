@@ -26,8 +26,6 @@ const Coins = () => {
                 name={coin.name}
                 symbol={coin.symbol}
                 incrVal={coin.incrValue}
-                bgcolor={coin.bgcolor}
-                textcolor={coin.textcolor}
               />
             );
           })}
