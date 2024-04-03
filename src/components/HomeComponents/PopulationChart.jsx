@@ -77,7 +77,7 @@ const PopulationGraph = () => {
       <h2 className="border-b py-2">Population Graph of USA</h2>
       <canvas
         id="population-chart"
-        style={{ width: "500px", height: "250px" }}
+        style={{ width: "500px", height: "350px" }}
         className="border-b py-2"
       ></canvas>
       <div className="flex justify-between items-center p-2">

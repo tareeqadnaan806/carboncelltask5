@@ -4,7 +4,7 @@ import Card from "./Card";
 const Coins = () => {
   const [coins, setCoins] = useState([]);
   useEffect(() => {
-    const url = "https://coins4.free.beeceptor.com/coins4";
+    const url = "https://coins5.free.beeceptor.com/coins5";
 
     fetch(url)
       .then((res) => res.json())
